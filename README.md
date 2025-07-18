@@ -1,7 +1,6 @@
 ---
 layout: page
 title: LING-351-tutorial
-permalink: /home/
 ---
 
 ### Intro

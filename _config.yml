@@ -1,28 +1,30 @@
-title: "LING-351-tutorial"
+# Site settings
+title: "LING-351-python-tutorial"
+
 author:
-  name: "Hakyung Sung"
+  name:  "Hakyung Sung"
   email: "hksung001@gmail.com"
 
-# Build settings
+# Theme and plugins
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Minima-specific settings
+# Minima-specific settings (v3+)
 minima:
-  # Navigation links (in the order you list them)
+  # Pages to show in the nav, in the order listed
   nav_pages:
-    - 0.md
+    - "0.md"
 
-  # Date format for posts/pages
+  # Date format (e.g. Jul-18-2025)
   date_format: "%b-%d-%Y"
 
-  # (Optional) show excerpts on the homepage
+  # Homepage excerpt toggle
   show_excerpts: false
 
-  # (Optional) skin: classic, dark, auto, etc.
+  # Choose a skin: classic, dark, auto, solarized-light, etc.
   skin: auto
 
-# (Optional) Hide the RSS/Atom feed link in social icons
-hide_site_feed_link: false
+  # Hide the RSS/Atom feed icon in your social links
+  hide_site_feed_link: false
