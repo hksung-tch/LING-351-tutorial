@@ -26,7 +26,7 @@ minima:
   #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: auto
 
-  header_pages:
+  nav_pages:
     - 0.md
     - README.md
 
