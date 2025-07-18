@@ -1,9 +1,7 @@
-# Site settings
-title: "LING-351-python-tutorial"
-
+title: LING-351-python-tutorial
 author:
-  name:  "Hakyung Sung"
-  email: "hksung001@gmail.com"
+  name:  Hakyung Sung
+  email: hksung001@gmail.com
 
 # Theme and plugins
 theme: minima
@@ -11,6 +9,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+  
 # Minima-specific settings (v3+)
 minima:
   # Pages to show in the nav, in the order listed
