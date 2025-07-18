@@ -1,10 +1,28 @@
-theme: minima
-
-nav_pages:
-  - 0.md
-
-date_format: "%b-%d-%Y"
-
+title: "LING-351-tutorial"
 author:
   name: "Hakyung Sung"
   email: "hksung001@gmail.com"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima-specific settings
+minima:
+  # Navigation links (in the order you list them)
+  nav_pages:
+    - 0.md
+
+  # Date format for posts/pages
+  date_format: "%b-%d-%Y"
+
+  # (Optional) show excerpts on the homepage
+  show_excerpts: false
+
+  # (Optional) skin: classic, dark, auto, etc.
+  skin: auto
+
+# (Optional) Hide the RSS/Atom feed link in social icons
+hide_site_feed_link: false
