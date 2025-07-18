@@ -1,3 +1,10 @@
+---
+
+layout: base
+---
+
+{{ content }}
+
 ## LING-351-tutorial
 
 ### Intro
