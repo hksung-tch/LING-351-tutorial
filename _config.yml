@@ -1,1 +1,10 @@
 theme: minima
+
+nav_pages:
+  - 0.md
+
+date_format: "%b-%d-%Y"
+
+author:
+  name: "Hakyung Sung"
+  email: "hksung001@gmail.com"
