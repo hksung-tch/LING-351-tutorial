@@ -1,11 +1,9 @@
 ---
 
-layout: base
+layout: page
+title: LING-351-tutorial
+permalink: /home/
 ---
-
-{{ content }}
-
-## LING-351-tutorial
 
 ### Intro
 
