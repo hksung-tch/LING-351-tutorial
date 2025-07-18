@@ -1,10 +1,10 @@
 ---
 layout: page
-title: LING-351-tutorial
+title: Home
 permalink: /home/
 ---
 
-### Intro
+### Intro to python tutorial
 
 In this tutorial, we’ll combine simple Python programming with text data to learn basic skills in text data analysis. By the end, you’ll know how to:
 
