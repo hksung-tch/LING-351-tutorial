@@ -1,12 +1,9 @@
 title: LING-351-python-tutorial
-author:
-  name: hksung
-  email: hksung001@gmail.com
+author: Hakyung Sung
+email: hksung001@gmail.com
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Simple python tutorial for beginners
 
 theme: minima
 
@@ -33,7 +30,7 @@ minima:
   #   If you wish to link only specific pages in the site-navigation, use this and list
   #   the `path` property (as represented via Liquid) of the pages in the order they
   #   should be rendered.
-  nav_pages:
+  header_pages:
     - README.md
     - 0.md
 
