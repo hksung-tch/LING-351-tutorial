@@ -26,13 +26,9 @@ minima:
   #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: auto
 
-  # Specific pages for site navigation.
-  #   If you wish to link only specific pages in the site-navigation, use this and list
-  #   the `path` property (as represented via Liquid) of the pages in the order they
-  #   should be rendered.
   header_pages:
-    - README.md
     - 0.md
+    - README.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
