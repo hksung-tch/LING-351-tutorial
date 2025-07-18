@@ -1,7 +1,4 @@
 title: LING-351-python-tutorial
-author:
-  name:  Hakyung Sung
-  email: hksung001@gmail.com
 
 # Theme and plugins
 theme: minima
@@ -12,7 +9,7 @@ plugins:
 sass:
   quiet_deps: true
   silence_deprecations: [import]
-  
+
 # Minima-specific settings (v3+)
 minima:
   # Pages to show in the nav, in the order listed
@@ -23,7 +20,7 @@ minima:
   date_format: "%b-%d-%Y"
 
   # Homepage excerpt toggle
-  show_excerpts: false
+  show_excerpts: true
 
   # Choose a skin: classic, dark, auto, solarized-light, etc.
   skin: auto
