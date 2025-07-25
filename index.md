@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Intro to python tutorial
 
 In this tutorial, we’ll combine simple Python programming with text data to learn basic skills in text data analysis. By the end, you’ll know how to:
