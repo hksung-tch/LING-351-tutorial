@@ -7,7 +7,7 @@ title: Numpy
 
 - NumPy is an optimized library designed for matrix and vector computation in Python. NLP often involves representing words and sentences as vectors (e.g., word embeddings) and performing matrix operations for neural networks. Libraries like *scikit-learn*, *PyTorch*, and *spaCy* all depend on NumPy under the hood.
 
-- [Official NumPy documentation](https://numpy.org/doc/stable/).
+- [Documentation](https://numpy.org/doc/stable/)
 
 ### Core data type
 
@@ -160,7 +160,7 @@ C. `(4, 3, 2)`
 D. `(2, 12)`
 
 <details>
-<summary style="color:white"><strong>Answers</strong></summary>
+<summary style="color:Gray"><strong>Check answers!</strong></summary>
 
 1. A  
 2. C  
