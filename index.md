@@ -16,6 +16,7 @@ This tutorial introduces basic Python programming skills through hands-on work w
 #### Text processing
 - [Tokenization, lemmatization, frequency calculation](5.md)
 - [Concordance](6.md)
+- [Collocation](7.md)
 
 #### Packages
 - [Numpy](numpy.md)
